@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack software developer who's proficient in Javascript, Python, Ruby, React.js, Redux.js, Ruby on Rails, and PostgreSQL! I also have prior experiences working at multiple tech companies in Business Operations, Sales Operations, and Commercial roles where I worked on revenue scaling projects, building out metrics dashboards, and wrote automation scripts in Python.
+I'm a full stack software developer who's proficient in Javascript, Python, Ruby, React.js, Redux.js, Ruby on Rails, and PostgreSQL! I also have prior experiences working at multiple tech companies in Business Operations, Sales Operations, and Commercial roles where I worked on revenue scaling projects, defining and building out metrics reporting, and wrote automation scripts in Python.
 
 - 🔭 I’m currently working on building a chatbot that uses an AI library
 - 🌱 I’m currently learning Redis and Go
